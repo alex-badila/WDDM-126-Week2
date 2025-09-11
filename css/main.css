@@ -1,0 +1,13 @@
+h1, h2, p {
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-size: 36px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
