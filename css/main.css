@@ -2,8 +2,13 @@ h1, h2, p {
     text-align: center;
 }
 
+body {
+    background-color: black;
+    color: white;
+}
+
 p {
-    color: blue;
+    color: yellow;
     font-size: 36px;
 }
 
