@@ -13,7 +13,7 @@ p {
 	font-weight: 600
 }
 
-div {
-    display: flex;
+div { 
+	background-color: magenta;
     justify-content: center;
 }
